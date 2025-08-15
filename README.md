@@ -5,6 +5,13 @@ This repository contains the complete implementation and analysis pipeline of an
 
 Developed by the _Lie-Detector Team_, the experiment and analyses included here serve as a comprehensive exploration—from raw EEG data collection, preprocessing, and exploratory analysis, through feature engineering, model training, and evaluation.
 
+## Authors
+- [Michał Skrzypa](https://www.linkedin.com/in/michal-skrzypa/)
+- [Adam Broszkiewicz](https://www.linkedin.com/in/adam-broszkiewicz-5191b4235/)
+- [Maria Fabijan](https://www.linkedin.com/in/maria-fabijan/)
+- [Grzegorz Szczepanek](https://www.linkedin.com/in/grzegorz-szczepanek-ab4479250/)
+- [Julia Szymańska](https://www.linkedin.com/in/julia-szyma%C5%84ska-7836202ba/)
+
 ---
 
 ## Table of Contents
@@ -158,3 +165,4 @@ _EDA Plots:_
 
 ---
 # Lie-Detector
+
